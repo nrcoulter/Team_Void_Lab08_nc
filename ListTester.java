@@ -173,7 +173,7 @@ public class ListTester {
 			// Scenario: 02
 		testSingleElementList(emptyList_addToFrontA_A, "emptyList_addToFrontA_A", LIST_A, STRING_A);
 			// Scenario: 03
-		testSingleElementList(emptyList_addToRearA_A,  STRING_ADC, LIST_ABD, STRING_ABD);
+		testSingleElementList(emptyList_addToRearA_A,  "emptyList_addToRearA_A", LIST_A, STRING_A);
 			// Scenario: 04
 
 			// Scenario: 05
