@@ -181,7 +181,7 @@ public class ListTester {
 			
 		//1-element to empty list
 			// Scenario: 12
-
+		
 			// Scenario: 13
 
 			// Scenario: 14
@@ -195,7 +195,7 @@ public class ListTester {
 			// Scenario: 06
 		testTwoElementList(A_addToFrontB_BA, "A_addToFrontB_BA", LIST_BA, STRING_BA);
 			// Scenario: 07
-
+		testTwoElementList(A_addtoRearB_AB, "A_addToRearB_AB, LIST_AB, STRING_AB);
 			// Scenario: 10
 
 			
