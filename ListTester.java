@@ -181,7 +181,7 @@ public class ListTester {
 			
 		//1-element to empty list
 			// Scenario: 12
-		
+		testEmptyList(A_removeFirst_emptyList, "A_removeFirst_emptyList");
 			// Scenario: 13
 
 			// Scenario: 14
